@@ -5,4 +5,4 @@
 - 💬 Take a look at my [Curriculum Vitae](https://lemnoslife.com/CV-EN.pdf)
 <!-- github link even by forcing raw would be cleaner and could instead redirect CV-EN.pdf on my website to the GitHub -->
 <!-- could add a link in my online CV to the French/international version-->
-- 📫 Reach me informally on [Discord](https://discord.gg/yCretyYAwQ)
+- 📫 Reach me on [Matrix](https://matrix.to/#/@benjamin_loison:matrix.org)
