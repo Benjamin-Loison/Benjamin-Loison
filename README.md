@@ -9,9 +9,7 @@
 blockchain](https://github.com/Benjamin-Loison/Mining-in-Logarithmic-Space) at [INRIA](https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation) Rennes (France) from June to July 2021
     - [Tooling for Bitcoin Integration on the Internet
 Computer](https://gitlab.com/Benjamin_Loison/tooling-for-bitcoin-integration-on-the-internet-computer) at the [DFINITY Foundation](https://en.wikipedia.org/wiki/Dfinity) in Zurich (Switzerland) from February to July 2022
-- 💬 Take a look at my [Curriculum Vitae](https://lemnoslife.com/CV-EN.pdf)
-<!-- github link even by forcing raw would be cleaner and could instead redirect CV-EN.pdf on my website to the GitHub -->
-<!-- could add a link in my online CV to the French/international version-->
+- 💬 Take a look at my [Curriculum Vitae](https://lemnoslife.com/CV-EN.pdf) and [my GitLab profile](https://gitlab.com/Benjamin_Loison)
 - 📫 Reach me on:
   - [Matrix](https://matrix.to/#/@benjamin_loison:matrix.org)
   - [Discord](https://discord.gg/yCretyYAwQ)
