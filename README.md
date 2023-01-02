@@ -12,4 +12,4 @@ Computer](https://gitlab.com/Benjamin_Loison/tooling-for-bitcoin-integration-on-
 - 💬 Take a look at my [Curriculum Vitae](https://lemnoslife.com/CV-EN.pdf) and [my GitLab profile](https://gitlab.com/Benjamin_Loison)
 - 📫 Reach me on:
   - [Matrix](https://matrix.to/#/@benjamin_loison:matrix.org)
-  - [Discord](https://discord.gg/yCretyYAwQ)
+  - [Discord](https://lemnoslife.com/discord_benjamin_loison)
