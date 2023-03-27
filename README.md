@@ -11,7 +11,7 @@
 Computer](https://gitlab.com/Benjamin_Loison/tooling-for-bitcoin-integration-on-the-internet-computer) at the [DFINITY Foundation](https://en.wikipedia.org/wiki/Dfinity) in Zurich (Switzerland) from February to July 2022
     - [Improved scaling of the disk space taken by the Bitcoin
 blockchain](https://github.com/Benjamin-Loison/Mining-in-Logarithmic-Space) at [INRIA](https://en.wikipedia.org/wiki/French_Institute_for_Research_in_Computer_Science_and_Automation) Rennes (France) from June to July 2021
-- 💬 Take a look at my [Curriculum Vitae](https://lemnoslife.com/CV-EN.pdf) and [my GitLab profile](https://gitlab.com/Benjamin_Loison)
+- 💬 Take a look at my [Curriculum Vitae](https://lemnoslife.com/CV-EN) and [my GitLab profile](https://gitlab.com/Benjamin_Loison)
 - 📫 Reach me on:
   - [Matrix](https://matrix.to/#/@benjamin_loison:matrix.org)
   - [Discord](https://lemnoslife.com/discord_benjamin_loison)
