@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 📖 I’m currently studying at M2 level at the computer science department of [Ecole Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay)
-- 🎮 I’m currently working on my video games [LemnosLife](https://github.com/Benjamin-Loison/LemnosLife), [Among Us decentralized](https://github.com/Benjamin-Loison/Among-us-decentralized) and [Travian blockchained](https://github.com/Benjamin-Loison/Travian-blockchained).
+- 📖 I'm currently studying at M2 level at the computer science department of [Ecole Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay)
+- 🎮 I'm currently working on my video games [LemnosLife](https://github.com/Benjamin-Loison/LemnosLife), [Among Us decentralized](https://github.com/Benjamin-Loison/Among-us-decentralized) and [Travian blockchained](https://github.com/Benjamin-Loison/Travian-blockchained).
 - 📚 I'm interested in decentralization:
   - Cf above Among Us decentralized and Travian blockchained video games
   - My last three research internships were about Bitcoin:
