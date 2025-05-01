@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📖 I'm currently [learning artificial intelligence](https://ens-paris-saclay.fr/formations/autres-diplomes/diplome-aria-recherche-en-intelligence-artificielle) at [École Normale Supérieure Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay)
+- 📖 I'm currently a [PhD student in image forensic](https://theses.fr/s401330) at Agence Ministérielle pour l'IA de Défense (AMIAD) research pole and École Normale Supérieure Paris-Saclay Centre Borelli, following my research internship at the latter on [Robust image source identification on modern smartphones with PRNU analysis](https://gitea.lemnoslife.com/Benjamin_Loison/Robust_image_source_identification_on_modern_smartphones/releases/tag/evaluation).
 - 🎮 I'm currently working on my video games [LemnosLife](https://github.com/Benjamin-Loison/LemnosLife), [Among Us decentralized](https://github.com/Benjamin-Loison/Among-us-decentralized) and [Travian blockchained](https://github.com/Benjamin-Loison/Travian-blockchained).
 - 📚 I'm interested in decentralization:
   - Cf above Among Us decentralized and Travian blockchained video games
